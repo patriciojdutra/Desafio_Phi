@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="balance_size">24sp</dimen>
+    <dimen name="balance_hidden">4dp</dimen>
+</resources>

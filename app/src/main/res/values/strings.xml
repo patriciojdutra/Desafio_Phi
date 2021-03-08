@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Desafio</string>
+    <string name="Warning">Aviso</string>
+    <string name="Continue">Continuar</string>
+    <string name="PIXOUT">PIXCASHOUT</string>
+    <string name="PIXIN">PIXCASHIN</string>
+    <string name="error_open_extract">Ocorreu um erro ao tentar abrir o extrato.</string>
+    <string name="Proof">Comprovante</string>
+    <string name="drive_type">Tipo de movimentação</string>
+    <string name="value">Valor</string>
+    <string name="to">Recebedor</string>
+    <string name="bank_institution">Instituição bancária</string>
+    <string name="date_hour">Data/Hora</string>
+    <string name="authentication">Autenticação</string>
+    <string name="share">Compartilhar</string>
+    <string name="extract">Extrato</string>
+    <string name="your_balance">Seu saldo</string>
+    <string name="your_moves">Suas movimentações</string>
+</resources>
